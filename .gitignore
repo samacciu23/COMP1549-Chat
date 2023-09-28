@@ -1,5 +1,5 @@
-# IntellijIdea
-*.idea
+# IntellijIdea folder
+.idea
 
 # Compiled class file
 *.class
